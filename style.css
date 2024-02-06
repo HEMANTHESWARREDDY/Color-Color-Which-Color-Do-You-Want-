@@ -1,0 +1,33 @@
+h1{
+    padding:300px 600px;
+    color: white;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow: hidden;
+    background-color: dodgerblue;
+    position: sticky;
+    top: 0;
+}
+h2{
+    background-color: red;
+    color: white;
+    border: 20px solid red;
+    text-align: center;
+}
+button{
+    background-color: dodgerblue;
+    padding: 8px 20px;
+}
+button:hover{
+    background-color: blueviolet;
+    color: white;
+}
+
+li{
+    display: block;
+    float: left;
+    border-right: 1px solid black;
+}
